@@ -27,3 +27,18 @@ nav {
 .lien-menu.active {
     border-bottom: 1px solid #ff6060;
 }
+
+@media screen and (max-width: 1490px) {
+  header {
+    margin: 40px 2.5%;
+    width: 95%;
+  }
+  
+  header > img {
+    height: 47px;
+  }
+
+  .lien-site {
+    margin: auto 5px;
+  }
+}
