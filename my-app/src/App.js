@@ -1,3 +1,4 @@
+import "@fontsource/montserrat";
 import React from "react";
 import './App.css';
 import RoutesPath from "../src/routes/RoutesPath";
